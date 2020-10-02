@@ -6,7 +6,7 @@
 	"weather": {
 		"id": 802,
 		"main": "Clouds",
-		"description": "Noooooooo scattered clouds",
+		"description": "Noooooooo sdf scattered clouds",
 		"icon": "03n"
 	},
 	"base": "stations",
